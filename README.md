@@ -2,7 +2,7 @@
 simple cli tool to count lines in project files
 
 
-#usage
+# usage
 syntax: line_counter "path" "filter"
 filters:
 *    - return all files
